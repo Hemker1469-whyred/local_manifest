@@ -17,6 +17,7 @@
  <remote name="awaken" fetch="https://github.com/Project-Awaken" />
  <remote name="crdroid" fetch="https://github.com/fernandobouchet" />
  <remote name="gcc" fetch="https://github.com/mvaisakh" />
+ <remote name="hvc" fetch="https://github.com/Havoc-OS" />
  <!-- Trees -->
  <project path="device/xiaomi/whyred" name="device_xiaomi_whyred" remote="a" revision="twelve" clone-depth="1" />
  
